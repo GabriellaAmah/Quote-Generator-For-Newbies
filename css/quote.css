@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, #ccffff ,#00b3b3)
+}
+.quoteContainer{
+    border: 1px solid red;
+    background-color:cornsilk;
+    min-height: 50vh;
+    margin-top: 50px !important;
+}
+
+#button{
+    padding: 0.5rem 1.5rem;
+    font-size: 19px;
+    border-radius: 5rem;
+}
+
+#button:hover{
+    background-color: #80ffff;
+}
+
+span{
+    font-size: 5rem;
+}
